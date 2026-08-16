@@ -1,0 +1,19 @@
+# binaries
+/gsetup
+/gsetup.exe
+/Grok
+*.exe
+*.test
+*.out
+
+# local
+.DS_Store
+.env
+.env.*
+*.bak
+*.bak.*
+
+# editor
+.idea/
+.vscode/
+*.swp
